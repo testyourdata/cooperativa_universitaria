@@ -3,7 +3,7 @@ title: Analyze Cooperativa Universitaria
 subtitle: by POSTA
 email: info@posta.com
 description: Información de Cooperativa Universitaria
-baseurl: "/cooperativa_universitaria" # the subpath of your site, e.g. /blog
+baseurl: "cooperativa_universitaria" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Montevideo
